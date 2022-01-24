@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.navigation{
+    height: 80px;
+}
+.banner{
+    min-height: calc(100vh - 80px);
+}
+
+.banner_img{
+    width:  1120px;
+    height: 450px;
+    
+
+}
